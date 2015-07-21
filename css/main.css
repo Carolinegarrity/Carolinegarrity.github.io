@@ -1,0 +1,48 @@
+.jumbotron {
+    height: 500px;
+    background-image: url(../img/FullSizeRender.jpg);
+    background-size: cover;
+}
+.jumbotron h1 {
+    color: #fff !important;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: serif;
+}
+.learn-more {
+    background-color: #f7f7f7;
+}
+.learn-more h3 {
+    font-family: serif;
+    font-size: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.learn-more h4 {
+    font-family: serif;
+    font-size: 20px;
+    margin-top: 1.33em;
+    margin-bottom: auto;
+}
+.learn-more a {
+    color: #00b0ff;
+}
+.work-item {
+    padding-bottom: 20px;
+}
+.media,
+media-body {
+    overflow: hidden;
+    zoom: 1;
+    margin-top: 15px;
+}
+.media-object {
+    max-height: 64px;
+    max-width: 64px;
+}
+.element-style {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
